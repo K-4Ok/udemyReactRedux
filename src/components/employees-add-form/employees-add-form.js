@@ -55,5 +55,4 @@ export default class EmployeesAddForm extends Component {
             </div>
         )
     }
-    
 }
